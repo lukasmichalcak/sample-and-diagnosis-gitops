@@ -1,0 +1,11 @@
+apiVersion: polyfea.github.io/v1alpha1
+kind: WebComponent
+metadata:
+  name: mglm-sample-and-diagnosis-ufe-content
+spec:
+  microFrontend: mglm-sample-and-diagnosis-ufe
+  element: mglm-sample-and-diagnosis-test-list
+  displayRules:
+    - allOf:
+      - context-name: main-content
+      - path: "^(\\.?/)?mglm-sample-and-diagnosis-test(/.*)?$"

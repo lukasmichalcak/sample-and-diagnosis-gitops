@@ -5,7 +5,7 @@ namespace: wac-hospital-project  # chceme tieto objekty umiestniť do `wac-hospi
                          # tento zapis preťaží hodnoty "namespace" vo všetkých objektoch
 labels:
 - pairs:
-    app.kubernetes.io/part-of: wac-hospital-project
+    app.kubernetes.io/part-of: wac-hospital
 
 resources:
 - ../../../apps/mglm-sample-and-diagnosis-ufe

@@ -12,3 +12,6 @@ resources:
 - cd.kustomization.yaml
 - install.kustomization.yaml
 - git-repository.yaml
+- sample-and-diagnosis-ufe.image-repository.yaml
+- sample-and-diagnosis-ufe.image-policy.yaml
+- image-update-automation.yaml

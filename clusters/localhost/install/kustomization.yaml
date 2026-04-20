@@ -9,3 +9,6 @@ labels:
 
 resources:
 - ../../../apps/mglm-sample-and-diagnosis-ufe
+
+components:
+- ../../../components/version-developers

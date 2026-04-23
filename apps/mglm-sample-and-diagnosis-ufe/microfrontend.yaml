@@ -6,4 +6,4 @@ spec:
   frontendClass: md-shell # default obsiahnutý v základe polyfea md-shell
   service:
     name: mglm-sample-and-diagnosis-ufe # referencia na službu odkiaľ sa má načítať modul
-  modulePath: build/ambulance-ufe.esm.js # cesta v rámci služby kde sa modul nachádza
+  modulePath: build/sample-and-diagnosis-ufe.esm.js # cesta v rámci služby kde sa modul nachádza

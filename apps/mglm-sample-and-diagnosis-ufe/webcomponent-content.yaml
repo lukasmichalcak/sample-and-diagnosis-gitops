@@ -9,6 +9,10 @@ spec:
   attributes:
     - name: base-path
       value: /mglm-sample-and-diagnosis-test/
+    - name: api-base
+      value: http://localhost:5000/api
+    - name: sample-and-diagnosis-id
+      value: bobulova
   displayRules:
     - allOf:
       - context-name: main-content

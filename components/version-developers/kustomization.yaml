@@ -3,4 +3,4 @@ kind: Component
 images:
 - name: lukasmichalcak/sample-and-diagnosis-ufe
   newName: lukasmichalcak/sample-and-diagnosis-ufe # {"$imagepolicy":  "wac-hospital:sample-and-diagnosis-ufe:name"}
-  newTag: main.20260505.1916 # {"$imagepolicy": "wac-hospital:sample-and-diagnosis-ufe:tag"}
+  newTag: main.20260506.1843 # {"$imagepolicy": "wac-hospital:sample-and-diagnosis-ufe:tag"}

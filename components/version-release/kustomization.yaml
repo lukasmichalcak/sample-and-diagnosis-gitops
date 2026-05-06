@@ -3,4 +3,4 @@ kind: Component
 images:
 - name: lukasmichalcak/sample-and-diagnosis-ufe
   newName: lukasmichalcak/sample-and-diagnosis-ufe
-  newTag: 1.0.0  #aktuálna verzia docker obrazu, ktorú chcete aby používatelia - cvičiaci - videli nasadenú
+  newTag: 1.1.0  #aktuálna verzia docker obrazu, ktorú chcete aby používatelia - cvičiaci - videli nasadenú

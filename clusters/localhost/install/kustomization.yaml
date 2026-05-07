@@ -9,6 +9,11 @@ labels:
 
 resources:
 - ../../../apps/mglm-sample-and-diagnosis-ufe
+- ../../../apps/mglm-sample-and-diagnosis-webapi
+
+patches:
+- path: patches/sample-and-diagnosis-webapi.service.yaml
 
 components:
 - ../../../components/version-developers
+- https://github.com/lukasmichalcak/sample-and-diagnosis-webapi//deployments/kustomize/components/mongodb

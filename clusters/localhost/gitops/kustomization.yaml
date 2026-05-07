@@ -14,4 +14,6 @@ resources:
 - git-repository.yaml
 - sample-and-diagnosis-ufe.image-repository.yaml
 - sample-and-diagnosis-ufe.image-policy.yaml
+- sample-and-diagnosis-webapi.image-repository.yaml
+- sample-and-diagnosis-webapi.image-policy.yaml
 - image-update-automation.yaml

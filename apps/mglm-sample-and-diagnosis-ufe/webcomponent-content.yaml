@@ -10,7 +10,7 @@ spec:
     - name: base-path
       value: /mglm-sample-and-diagnosis-test/
     - name: api-base
-      value: http://localhost:30081/api
+      value: /mglm-api
     - name: sample-and-diagnosis-id
       value: bobulova
   displayRules:

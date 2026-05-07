@@ -1,0 +1,22 @@
+apiVersion: polyfea.github.io/v1alpha1
+kind: WebComponent
+metadata:
+  name: mglm-mongo-express-link
+spec:
+  microFrontend: polyfea-md-shell
+  element: polyfea-md-app
+  attributes:
+    - name: headline
+      value: Mongo Express
+    - name: short-headline
+      value: Sample and Diagnosis MongoDB
+    - name: material-icon
+      value: database
+    - name: href
+      value: ./mglm-mongo-express
+  priority: 10
+  displayRules:
+    - anyOf:
+        - context-name: applications
+        - context-name: rail-content
+        - context-name: drawer-content

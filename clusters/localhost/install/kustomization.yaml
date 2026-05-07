@@ -10,6 +10,7 @@ labels:
 resources:
 - ../../../apps/mglm-sample-and-diagnosis-ufe
 - ../../../apps/mglm-sample-and-diagnosis-webapi
+- ../../../apps/mglm-mongo-express
 
 patches:
 - path: patches/sample-and-diagnosis-webapi.service.yaml

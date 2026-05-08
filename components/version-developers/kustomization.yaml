@@ -6,4 +6,4 @@ images:
   newTag: main.20260507.2327 # {"$imagepolicy": "wac-hospital:sample-and-diagnosis-webapi:tag"}
 - name: lukasmichalcak/sample-and-diagnosis-ufe
   newName: lukasmichalcak/sample-and-diagnosis-ufe # {"$imagepolicy":  "wac-hospital:sample-and-diagnosis-ufe:name"}
-  newTag: main.20260507.2326 # {"$imagepolicy": "wac-hospital:sample-and-diagnosis-ufe:tag"}
+  newTag: main.20260508.1133 # {"$imagepolicy": "wac-hospital:sample-and-diagnosis-ufe:tag"}

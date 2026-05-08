@@ -3,7 +3,7 @@ kind: Component
 images:
 - name: lukasmichalcak/sample-and-diagnosis-ufe
   newName: lukasmichalcak/sample-and-diagnosis-ufe
-  newTag: 1.2.1  #aktuálna verzia docker obrazu, ktorú chcete aby používatelia - cvičiaci - videli nasadenú
+  newTag: 1.2.2  #aktuálna verzia docker obrazu, ktorú chcete aby používatelia - cvičiaci - videli nasadenú
 - name: lukasmichalcak/sample-and-diagnosis-webapi
   newName: lukasmichalcak/sample-and-diagnosis-webapi
   newTag: 1.1.1

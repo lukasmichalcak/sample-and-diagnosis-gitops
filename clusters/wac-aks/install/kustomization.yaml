@@ -12,6 +12,7 @@ labels:
 
 resources:
 - ../../../apps/mglm-sample-and-diagnosis-ufe
+- ../../../apps/mglm-sample-and-diagnosis-webapi
 
 
 components:

@@ -1,7 +1,7 @@
 apiVersion: wac-fiit.github.io/v1alpha1
 kind: Project
 metadata:
-  name: Sample and Diagnosis by Maroš Guráň and Lukáš Michalčák # napr. <pfx>-ambulance-wl
+  name: mglm-sample-and-diagnosis-test # napr. <pfx>-ambulance-wl
 spec:
   title: Sample and Diagnosis, mglm # napr. "Zoznam čakajúcich <pfx>"
   description: "1. Technik vie generovať záznamy o odobratých vzorkách, po uložení ešte upravovať, mazať alebo označiť ako znehodnotené 2. Diagnostik vie ukladať konkrétne hodnoty a stanoviť diagnózu, predbežne ukladať alebo mazať a nakoniec spraviť finálny report" # napr. "Spravuje zoznam pacientov čakajúcich na vyšetrenie v ambulancii"

@@ -14,6 +14,8 @@ resources:
 - ../../../apps/mglm-sample-and-diagnosis-ufe
 - ../../../apps/mglm-sample-and-diagnosis-webapi
 
+patches:
+- path: patches/sample-and-diagnosis-webapi.mongodb-auth.deployment.yaml
 
 components:
 - ../../../components/version-release
